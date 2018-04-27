@@ -1,0 +1,21 @@
+.heading 
+{
+	background-color: #00695C;
+	color: white;
+	font-family: Raleway;
+}
+
+.subtopic
+{
+	background-color:  #00695C;
+	text-align: center;
+	color: white;
+	font-family: Raleway;
+}
+
+pre
+{
+	font-style: bold;
+	margin-top: -700px;
+}
+
