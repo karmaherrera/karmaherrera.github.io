@@ -13,9 +13,11 @@
 	font-family: Raleway;
 }
 
-pre
+div.code 
 {
-	font-style: bold;
-	margin-top: -700px;
+
+	height : 500px;
+	background-color: #DEE4DD;
+	overflow: scroll;
 }
 
